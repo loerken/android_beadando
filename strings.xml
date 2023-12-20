@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Feed The Cat</string>
+    <string name="cat_image">Image of a hungry cat.</string>
+    <string name="steak_image">Image of a delicious steak!</string>
+    <string name="score_0">Score: 0</string>
+    <string name="score">Score: </string>
+    <string name="lives">Lives: </string>
+    <string name="game_title" translatable="false">Feed the Cat</string>
+    <string name="play">Play</string>
+    <string name="creators_name">Made By: Horváth Károly</string>
+    <string name="game_over">Game Over</string>
+    <string name="restart">Restart</string>
+</resources>

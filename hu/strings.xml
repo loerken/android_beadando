@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cat_image">Egy éhes macska képe.</string>
+    <string name="steak_image">Egy finom steak képe.</string>
+    <string name="score_0">Pontszám: 0</string>
+    <string name="score">"Pontszám: "</string>
+    <string name="lives">Életek:</string>
+    <string name="play">Indítás</string>
+    <string name="creators_name">Készítette: Horváth Károly</string>
+    <string name="game_over">Vége a játéknak</string>
+    <string name="restart">Újrakezdés</string>
+</resources>
